@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello
 
-<!--
-**AdriikBTW/AdriikBTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
-Here are some ideas to get you started:
+I'm Adrián, just an ordinary Argentine guy.  
+Obsessed with customizing my Linux machine instead of doing productive stuff.  
+Interested in cybersecurity and everything under the hood.  
+My goal is to become the supreme nerd.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![arch](https://img.shields.io/static/v1?logo=archlinux&label=&message=Arch&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=1a1b26&logoColor=bb9af7&style=flat-square)
