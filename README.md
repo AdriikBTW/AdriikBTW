@@ -22,4 +22,6 @@ My goal is to become the supreme nerd.
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=1a1b26&logoColor=bb9af7&style=flat-square)
 
-You can also find me in ![gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=1a1b26&logoColor=bb9af7&style=flat-square) and ![codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=1a1b26&logoColor=bb9af7&style=flat-square).
+You can also find me in:
+[![gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=1a1b26&logoColor=bb9af7&style=flat-square)](https://gitlab.com/Adriik)
+[![codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=1a1b26&logoColor=bb9af7&style=flat-square)](https://codeberg.org/Adriik)
