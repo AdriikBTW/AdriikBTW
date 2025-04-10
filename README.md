@@ -2,7 +2,7 @@
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" align="left">
 
-I'm Adrián, just an ordinary Argentine guy obsessed with customizing my Linux machine instead of doing productive stuff.  
+I'm Adrián, just an ordinary guy obsessed with customizing my Linux machine instead of doing productive stuff.  
 Interested in cybersecurity and everything at low-level.  
 My goal is to become the supreme nerd.
 
@@ -21,3 +21,5 @@ My goal is to become the supreme nerd.
 ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=1a1b26&logoColor=bb9af7&style=flat-square)
+
+You can also find me in ![gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=1a1b26&logoColor=bb9af7&style=flat-square) and ![codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=1a1b26&logoColor=bb9af7&style=flat-square).
