@@ -14,6 +14,8 @@ My goal is to become the supreme nerd.
 ![arch](https://img.shields.io/static/v1?logo=archlinux&label=&message=Arch+Linux&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![arm](https://img.shields.io/static/v1?logo=arm&label=&message=ARMv7+Assembly&color=1a1b26&logoColor=bb9af7&style=flat-square)
+![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=C&color=1a1b26&logoColor=bb9af7&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=Java&color=1a1b26&logoColor=bb9af7&style=flat-square)
 
@@ -25,3 +27,4 @@ My goal is to become the supreme nerd.
 **You can also find me in**:
 [![gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=1a1b26&logoColor=bb9af7&style=flat-square)](https://gitlab.com/Adriik)
 [![codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=1a1b26&logoColor=bb9af7&style=flat-square)](https://codeberg.org/Adriik)
+[![codeberg](https://img.shields.io/static/v1?logo=sourcehut&label=&message=Sourcehut&color=1a1b26&logoColor=bb9af7&style=flat-square)](https://sr.ht/~adriik/)
